@@ -19,7 +19,7 @@ Build a software that allows proper construction of building without any chaos.
 Used Minimum Heap to give unbiased attention to all the buildings and integrated Red Black Tree to allow printing of building in accordance to specified format above.
 
 ## Steps to execute
-1. Extract ChowdharyNiraj to you local machine
+1. Extract all files to your local machine
 2. Go to the above directory via command prompt
 3.  Type javac *.java
 4. Follow it by java risingCity Sample_Input2.txt
